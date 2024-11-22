@@ -1,8 +1,6 @@
 # Hi there 👋, Cassiano here!
 
-<ul>
-  <li>💻 I'm a Full Stack Developer from <b>Florianópolis - Santa Catarina, Brasil</li> 
-</ul>
+💻 I'm a Full Stack Developer from <b>Florianópolis - Santa Catarina, Brasil</b>
 
 <a href="https://linkedin.com/in/cassianocandido"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/candidocassiano/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
